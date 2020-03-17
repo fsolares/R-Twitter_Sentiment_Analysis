@@ -1,4 +1,4 @@
-# R-Twitter_Sentiment_Analysis
+# Twitter Sentiment Analysis
 
 This is a Twitter Sentiment Analysis project using ‘R’ developed by Felipe Solares da Silva to perform a sentiment analysis using the sentimentr package to identify the sentiment from tweets related to a specific Netflix content (series, movies and documentaries, for example).
 
